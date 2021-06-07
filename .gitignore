@@ -1,2 +1,5 @@
 npm-debug.log
 node_modules
+server.crt
+server.csr
+server.key
