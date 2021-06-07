@@ -1,5 +1,5 @@
 //モジュールインポート
-const server = require("express");
+const server = require("express")();
 const line = require("@line/bot-sdk");
 
 //パラメーター設定（環境変数を利用）
